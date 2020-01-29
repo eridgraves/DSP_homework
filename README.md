@@ -1,4 +1,4 @@
-# EE_351M_homework
+# DSP Homework Code
 Code portion of UT Austin DSP Theory homework sets. A list of topics is given below:
 
 - HW Set 1: Discrete convolution, filter coefficient calculation, plotting filter magnitude and phase.
